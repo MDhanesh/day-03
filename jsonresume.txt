@@ -1,0 +1,95 @@
+{
+“basic” : {
+“name” : “DHANESH M”,
+“email” : mgdhanesh98@gmail.com,
+“phone” : “8667626023”,
+“careerObjective” : [  
+“To have a growth oriented and challenging career, where I can contribute my knowledge and skills to the organization and enhance my experience through continuous learning and teamwork.” 
+]
+},
+  “education”: [
+    {
+      “institution”: “Ponjesly college of engineering”,
+      “area”: “Mechanical Engineering”,
+      “startDate”: “15/07/2016”,
+      “endDate”: “30/05/2020”,
+      “gpa”: “7.00”,
+    },
+    {
+      “institution”: “APJM matric higher secondary school”,
+“course” : “ HSA”,
+      “area”: “maths biology”,
+      “startDate”: “15/06/2015”,
+      “endDate”: “15/05/2016”,
+      "mark": “909”,
+       “total” : “1200”,
+    },
+    {
+      “institution”: “APJM matric higher secondary school”,
+      “course” : “ SSLC”,
+      “startDate”: “25/06/2013”,
+      “endDate”: “20/05/2014”,
+      “mark”: “464”,
+       “total” : “500”,
+    }
+  ],
+  “workExperience”: [
+    {
+      “company”: “SWITCH MOBILITY”,
+      “position”: “EXECUTIVE”,
+      “startDate”: “03/2023”,
+      “endDate”: “07/2023”,
+      “summary”: “As a Executive Role, I am responsible for the vehicle air system assbemling process”,
+    },{
+      “company”: “WABCO PVT LTD”,
+      “position”: “Technical graduate trainee”,
+      “startDate’: “02/2021”,
+      “endDate”: “02/2022”,
+      “summary”: “As a TGT Role, I am responsible for the product to clear all the testing process without any deviation”,
+    }
+],
+  “skills”: [
+    {
+      “name”: “Programming Languages”,
+      “level”: “basic”,
+      “keywords”: [
+        “HTML”,
+         “CSS”,
+         “JAVASCRIPT”
+      ]
+    }
+  ],
+“interests”: [
+    {
+      “name”: “sports”,
+      “keywords”: [
+        “football”,
+       “ swimming”
+      ]
+    }
+ ],
+
+“personalInformation”:{
+
+“fatherName”: “Manikandan”,
+“motherName”: “geetha”,
+“gender” : “male”,
+“matrialStatus” : “unmarried”,
+
+“address” : [
+{
+    “doorNo”: “8/62”,
+    “street” : “melkarai”,
+    “town” : “mondaymarket”,
+    “postalAddress” : “neyyoor post”,
+    “district” : “kaniyakumari”,
+    “postalPin” : “629802”
+     “region” : “tamilnadu”,
+     “country” : “India”,
+}
+]
+}
+      
+
+
+
